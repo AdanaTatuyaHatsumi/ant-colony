@@ -36,7 +36,7 @@ function initMap() {
     </script>
     <!--Load the API from the specified URL -- remember to replace YOUR_API_KEY-->
     <script async defer
-    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCZ8w11dYg35csoLlKJBVy12Yfzt_cnGuA&callback=initMap">
+    src="https://maps.googleapis.com/maps/api/js?key=yourkey">
     </script>
   </body>
 </html>
